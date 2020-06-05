@@ -2,3 +2,19 @@
 
 ## Date: May 27, 2020
 
+Today I learned introduction to Github
+
+The speaker explained how to use Github
+
+
+I am Kajal 
+I like python 
+I like badminton
+
+> Use double space to go to next line 
+
+# Water
+
+- water is transparent
+- It is very essential for living
+- plants also need water
